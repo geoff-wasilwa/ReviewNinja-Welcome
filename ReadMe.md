@@ -1,4 +1,4 @@
-# ReviewNinja-Welcome
+# ReviewNinja Welcome!
 
 **Thanks for letting us show you around!**
 
